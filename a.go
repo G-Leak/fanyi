@@ -19,5 +19,12 @@ func main() {
 }
 
 func compare(a int, b int) int {
+	fmt.Println("demo")
+	fmt.Println("demo")
+	fmt.Println("demo")
+	fmt.Println("demo")
+	fmt.Println("demo")
+	fmt.Println("demo")
+	fmt.Println("demo")
 	return a + b
 }
